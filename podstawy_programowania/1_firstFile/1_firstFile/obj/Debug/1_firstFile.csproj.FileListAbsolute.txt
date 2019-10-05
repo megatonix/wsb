@@ -1,0 +1,6 @@
+C:\xampp\htdocs\gituwa\podstawy_programowania\1_firstFile\1_firstFile\bin\Debug\1_firstFile.exe.config
+C:\xampp\htdocs\gituwa\podstawy_programowania\1_firstFile\1_firstFile\bin\Debug\1_firstFile.exe
+C:\xampp\htdocs\gituwa\podstawy_programowania\1_firstFile\1_firstFile\bin\Debug\1_firstFile.pdb
+C:\xampp\htdocs\gituwa\podstawy_programowania\1_firstFile\1_firstFile\obj\Debug\1_firstFile.csprojAssemblyReference.cache
+C:\xampp\htdocs\gituwa\podstawy_programowania\1_firstFile\1_firstFile\obj\Debug\1_firstFile.exe
+C:\xampp\htdocs\gituwa\podstawy_programowania\1_firstFile\1_firstFile\obj\Debug\1_firstFile.pdb
